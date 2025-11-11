@@ -78,7 +78,7 @@ Sinta-se livre para estudar, modificar e aprimorar, mantendo os devidos crédito
 ## 💻 Contato:
 - **👩🏾‍💻 JULLIA KAROLINA DE PAULA**
 - 📍Brasil
-- 📧 Email: julliakarolinadev@gmail.com | julliakarolinadepaula13@gmail.com
+- 📧 Email: julliakarolinadev@gmail.com | julliakarolinadepauladev@gmail.com
 - 🔗 Linkedin: (https://www.linkedin.com/in/jullia-karolina-de-paula-89a93a283/)
 
 ---
