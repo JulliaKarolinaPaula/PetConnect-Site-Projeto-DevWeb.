@@ -1,7 +1,10 @@
 # 🐾 PetConnect
 
 > Projeto desenvolvido como parte da disciplina de **Desenvolvimento Web** (Uniube) — um site dedicado à adoção responsável e resgate de animais abandonados.
-> Todo conteúdo e informações contidas nesse projeto são meramente fictícias.
+
+---
+
+**Todo conteúdo e informações contidas nesse projeto são meramente fictícias.**
 
 ---
 
