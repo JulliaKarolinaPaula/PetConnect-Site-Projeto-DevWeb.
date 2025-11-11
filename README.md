@@ -56,7 +56,7 @@ O site contém páginas dedicadas à apresentação da ONG, adoção de animais,
 
 ---
 
-##📜 Licença
+## 📜 Licença
 
 Este projeto é de uso educacional e não comercial.
 Sinta-se livre para estudar, modificar e aprimorar, mantendo os devidos créditos.
