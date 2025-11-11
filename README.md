@@ -4,7 +4,7 @@
 
 ---
 
-**Todo conteúdo e informações contidas nesse projeto são meramente fictícias.**
+## **🔔 Todo conteúdo e informações contidas nesse projeto são meramente fictícias.**
 
 ---
 
@@ -12,11 +12,7 @@
 
 A **PetConnect** é uma plataforma sem fins lucrativos que conecta animais resgatados a novos lares amorosos.  
 O projeto foi criado com o objetivo de **promover a adoção consciente**, incentivar o **voluntariado** e fornecer informações sobre **bem-estar animal**.
-
 O site contém páginas dedicadas à apresentação da ONG, adoção de animais, formas de ajudar e canais de contato.
-
----
-
 
 ---
 
@@ -47,8 +43,8 @@ O site contém páginas dedicadas à apresentação da ONG, adoção de animais,
 | Nome | Função | Contato |
 |------|---------|----------|
 | **Jullia Karolina de Paula** | Responsável por Adoções e Triagem | jullia@petconnect.org.br |
-| **Marcos Oliveira** | Veterinário Voluntário | marcos@petconnect.org.br |
-| **Equipe PetConnect** | Voluntários e cuidadores | contato@petconnect.org.br |
+| **Marcos Oliveira (Personagem Fictício)** | Veterinário Voluntário | marcos@petconnect.org.br |
+| **Equipe PetConnect (Personagem Fictício)** | Voluntários e cuidadores | contato@petconnect.org.br |
 
 ---
 
@@ -57,15 +53,6 @@ O site contém páginas dedicadas à apresentação da ONG, adoção de animais,
  - Adicionar integração com API de localização (Google Maps).
  - Criar área de login para voluntários e adotantes.
  - Melhorar acessibilidade e SEO.
-
----
-
-## 🐾 Créditos e Referências
-- 🏛️ Universidade de Uberaba (UNIUBE)
-- 📚 Projeto acadêmico — Desenvolvimento Web
-- 💻 Design e implementação: Jullia Karolina de Paula
-- 📸 Imagens de pets: bancos livres como Stok, Pexels
- e Unsplash
 
 ---
 
@@ -78,5 +65,29 @@ Sinta-se livre para estudar, modificar e aprimorar, mantendo os devidos crédito
 
 ---
 
+## 🐾 Créditos e Referências
+- 👩🏾‍💻 Design e implementação: Jullia Karolina de Paula
+- 🏛️ Universidade de Uberaba (UNIUBE)
+- 💻 Curso Tecnólogo Análise e Desenvolvimento de Sistemas
+- 📚 Projeto acadêmico — Desenvolvimento Web / Tecnologias para a Internet
+- 📸 Imagens de pets: bancos livres como Stok, Pexels
+ e Unsplash
 
+---
+## 💻 Contato:
+- 📧 Email: julliakarolinadev@gmail.com | julliakarolinadepaula13@gmail.com
+- 🔗 Linkedin: (https://www.linkedin.com/in/jullia-karolina-de-paula-89a93a283/)
+- 📍Brasil
+---
 
+---
+
+> 💚 **"A cada vida resgatada, um novo começo floresce."**  
+> O **PetConnect** nasceu da crença de que todo ser merece amor, cuidado e um lar seguro.  
+> Cada código escrito, cada linha de estilo e cada clique de adoção representa muito mais do que tecnologia — representa **esperança**.  
+>  
+> Que este projeto inspire mais pessoas a fazerem o bem, um pequeno gesto por vez.  
+>  
+> 🐾 *Juntos, conectamos amor, solidariedade e novas histórias.*
+
+---
